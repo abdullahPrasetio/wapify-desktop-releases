@@ -1,0 +1,1 @@
+# wapify-desktop-releases
